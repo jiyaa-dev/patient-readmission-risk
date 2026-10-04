@@ -1,0 +1,26 @@
+age_num,time_in_hospital,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,number_diagnoses,prior_visits,n_meds_active,n_meds_changed,lab_per_day,meds_per_day,gender,race,admission_type,admission_source,discharge_group,diag_1_grp,diag_2_grp,diag_3_grp,medical_specialty,max_glu_serum,A1Cresult,insulin,metformin,change,diabetesMed
+35.0,5.0,49.0,0.0,5.0,0.0,0.0,0.0,3.0,0.0,1.0,0.0,9.8,1.0,Female,AfricanAmerican,Emergency,Emergency room,Home,Genitourinary,Neoplasms,Diabetes,InternalMedicine,Not tested,Not tested,No,No,No,Yes
+55.0,13.0,88.0,6.0,45.0,0.0,0.0,0.0,9.0,0.0,1.0,0.0,6.769230769230769,3.4615384615384617,Male,Caucasian,Emergency,Emergency room,Home,Circulatory,Respiratory,Other,InternalMedicine,Not tested,Norm,Steady,No,No,Yes
+35.0,3.0,57.0,0.0,13.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,19.0,4.333333333333333,Female,Caucasian,Elective,Referral,Home,Other,Diabetes,Other,Other,Not tested,Not tested,No,No,No,No
+65.0,6.0,10.0,0.0,13.0,0.0,0.0,0.0,4.0,0.0,2.0,0.0,1.6666666666666667,2.1666666666666665,Male,Hispanic,Emergency,Transfer,Home,Circulatory,Circulatory,Diabetes,Other,Not tested,Not tested,Steady,Steady,Ch,Yes
+75.0,3.0,34.0,5.0,17.0,0.0,0.0,0.0,8.0,0.0,2.0,0.0,11.333333333333334,5.666666666666667,Male,Caucasian,Other/Unknown,Referral,Other,Circulatory,Circulatory,Circulatory,Cardiology,Not tested,Not tested,Steady,No,Ch,Yes
+55.0,2.0,29.0,0.0,11.0,0.0,0.0,0.0,5.0,0.0,1.0,0.0,14.5,5.5,Female,AfricanAmerican,Emergency,Transfer,Home,Other,Diabetes,Circulatory,InternalMedicine,Not tested,>8,Steady,No,No,Yes
+55.0,5.0,39.0,0.0,9.0,0.0,0.0,1.0,4.0,1.0,1.0,0.0,7.8,1.8,Female,AfricanAmerican,Emergency,Transfer,Home,Other,Diabetes,Circulatory,InternalMedicine,Not tested,Not tested,Steady,No,No,Yes
+85.0,2.0,51.0,0.0,6.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,25.5,3.0,Male,Caucasian,Emergency,Emergency room,Home,Other,Other,Other,InternalMedicine,Not tested,Not tested,No,No,No,No
+85.0,10.0,60.0,0.0,13.0,0.0,0.0,0.0,9.0,0.0,1.0,0.0,6.0,1.3,Male,Caucasian,Other/Unknown,Emergency room,Other,Circulatory,Other,Other,Cardiology,Not tested,Not tested,Steady,No,No,Yes
+75.0,3.0,40.0,0.0,9.0,0.0,0.0,0.0,7.0,0.0,0.0,0.0,13.333333333333334,3.0,Male,Caucasian,Urgent,Referral,Home,Digestive,Circulatory,Other,InternalMedicine,Not tested,Not tested,No,No,No,No
+55.0,1.0,38.0,5.0,12.0,0.0,0.0,0.0,9.0,0.0,0.0,0.0,38.0,12.0,Male,Caucasian,Urgent,Referral,Home,Circulatory,Circulatory,Diabetes,Cardiology,Not tested,Norm,No,No,No,No
+55.0,3.0,44.0,0.0,15.0,0.0,0.0,1.0,9.0,1.0,1.0,0.0,14.666666666666666,5.0,Male,Caucasian,Emergency,Emergency room,Home,Respiratory,Respiratory,Circulatory,Cardiology,Not tested,Norm,Steady,No,No,Yes
+55.0,2.0,47.0,0.0,9.0,0.0,0.0,2.0,9.0,2.0,0.0,0.0,23.5,4.5,Male,Caucasian,Urgent,Referral,Home,Respiratory,Respiratory,Circulatory,Cardiology,Not tested,Norm,No,No,No,No
+55.0,1.0,35.0,0.0,9.0,0.0,0.0,3.0,9.0,3.0,0.0,0.0,35.0,9.0,Male,Caucasian,Emergency,Emergency room,Home,Circulatory,Diabetes,Diabetes,Cardiology,Not tested,Norm,No,No,No,No
+65.0,3.0,51.0,0.0,14.0,0.0,0.0,0.0,9.0,0.0,1.0,0.0,17.0,4.666666666666667,Male,Caucasian,Emergency,Emergency room,Home,Respiratory,Diabetes,Circulatory,Other,Not tested,Not tested,No,No,No,Yes
+75.0,1.0,48.0,0.0,5.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,48.0,5.0,Female,AfricanAmerican,Emergency,Emergency room,Other,Other,Circulatory,Diabetes,Unknown,Not tested,>8,No,No,No,No
+85.0,7.0,40.0,3.0,15.0,0.0,0.0,0.0,5.0,0.0,3.0,1.0,5.714285714285714,2.142857142857143,Female,AfricanAmerican,Urgent,Referral,Home,Neoplasms,Diabetes,Genitourinary,InternalMedicine,Not tested,Not tested,Steady,No,Ch,Yes
+45.0,2.0,28.0,1.0,10.0,0.0,0.0,0.0,6.0,0.0,1.0,0.0,14.0,5.0,Female,AfricanAmerican,Emergency,Emergency room,Other,Circulatory,Diabetes,Circulatory,Unknown,Not tested,Not tested,No,Steady,No,Yes
+55.0,6.0,50.0,2.0,21.0,0.0,0.0,0.0,9.0,0.0,1.0,0.0,8.333333333333334,3.5,Female,Caucasian,Urgent,Referral,Home,Other,Other,Other,InternalMedicine,Not tested,Not tested,No,No,No,Yes
+45.0,2.0,35.0,3.0,8.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,17.5,4.0,Male,AfricanAmerican,Emergency,Emergency room,Other,Respiratory,Diabetes,Circulatory,Unknown,Not tested,Not tested,No,No,No,No
+45.0,3.0,33.0,1.0,6.0,0.0,0.0,0.0,6.0,0.0,1.0,0.0,11.0,2.0,Male,AfricanAmerican,Emergency,Emergency room,Home,Diabetes,Other,Circulatory,Other,Not tested,Not tested,Steady,No,No,Yes
+65.0,1.0,50.0,0.0,9.0,0.0,0.0,0.0,9.0,0.0,1.0,0.0,50.0,9.0,Male,Caucasian,Urgent,Referral,Home,Other,Other,Respiratory,Nephrology,Not tested,Not tested,Steady,No,No,Yes
+65.0,4.0,37.0,4.0,15.0,0.0,0.0,0.0,4.0,0.0,3.0,0.0,9.25,3.75,Male,Caucasian,Emergency,Emergency room,Home,Circulatory,Circulatory,Other,Cardiology,Not tested,Not tested,Steady,No,Ch,Yes
+55.0,7.0,63.0,1.0,22.0,0.0,0.0,1.0,5.0,1.0,0.0,0.0,9.0,3.142857142857143,Female,Caucasian,Urgent,Transfer,Home,Circulatory,Genitourinary,Other,Unknown,Not tested,Not tested,No,No,No,No
+55.0,12.0,58.0,2.0,26.0,0.0,0.0,2.0,8.0,2.0,0.0,0.0,4.833333333333333,2.1666666666666665,Female,Caucasian,Elective,Transfer,Facility / transfer,Other,Digestive,Other,Unknown,Not tested,Not tested,No,No,No,No
